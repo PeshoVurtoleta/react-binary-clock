@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/PeshoVurtoleta/react-binary-clock/static/css/main.780f861e.chunk.css",
+    "main.js": "/PeshoVurtoleta/react-binary-clock/static/js/main.2ddfbfe3.chunk.js",
+    "main.js.map": "/PeshoVurtoleta/react-binary-clock/static/js/main.2ddfbfe3.chunk.js.map",
+    "runtime-main.js": "/PeshoVurtoleta/react-binary-clock/static/js/runtime-main.7dec1f0d.js",
+    "runtime-main.js.map": "/PeshoVurtoleta/react-binary-clock/static/js/runtime-main.7dec1f0d.js.map",
+    "static/js/2.bfc6b868.chunk.js": "/PeshoVurtoleta/react-binary-clock/static/js/2.bfc6b868.chunk.js",
+    "static/js/2.bfc6b868.chunk.js.map": "/PeshoVurtoleta/react-binary-clock/static/js/2.bfc6b868.chunk.js.map",
+    "index.html": "/PeshoVurtoleta/react-binary-clock/index.html",
+    "precache-manifest.6a247ab9db6c19a7fcf6154a31896367.js": "/PeshoVurtoleta/react-binary-clock/precache-manifest.6a247ab9db6c19a7fcf6154a31896367.js",
+    "service-worker.js": "/PeshoVurtoleta/react-binary-clock/service-worker.js",
+    "static/css/main.780f861e.chunk.css.map": "/PeshoVurtoleta/react-binary-clock/static/css/main.780f861e.chunk.css.map",
+    "static/js/2.bfc6b868.chunk.js.LICENSE.txt": "/PeshoVurtoleta/react-binary-clock/static/js/2.bfc6b868.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dec1f0d.js",
+    "static/js/2.bfc6b868.chunk.js",
+    "static/css/main.780f861e.chunk.css",
+    "static/js/main.2ddfbfe3.chunk.js"
+  ]
+}

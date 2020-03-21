@@ -55,7 +55,6 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "https://github.com/PeshoVurtoleta/react-binary-clock",
   "keywords": [
     "react",
     "grid",

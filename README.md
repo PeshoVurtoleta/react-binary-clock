@@ -1,6 +1,6 @@
 # React binary clock with css grid
 
-👋 Hi there! My name is Zakk Shinikchiev! This is a repo show you my implementation of binary clock with react and css
+👋 Hi there! My name is Zakk Shinikchiev! This is my implementation of binary clock with react and css
 grid.
 
 [![Watch on GitHub][github-watch-badge]][github-watch]

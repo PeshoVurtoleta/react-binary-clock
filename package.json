@@ -62,7 +62,7 @@
     "binary",
     "clock"
   ],
-  "name": "react-binary-clock",
+  "name": "react-grid-binary-clock",
   "private": false,
   "repository": {
     "type": "git",

@@ -5,6 +5,7 @@
 [![Watch on GitHub][github-watch-badge]][github-watch]
 [![Star on GitHub][github-star-badge]][github-star]
 [![Code Coverage][coverage-badge]][coverage]
+[![Netlify Status][deploy-status]][deploys]
 
 ## System Requirements
 
@@ -86,3 +87,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 [github-star]: https://github.com/PeshoVurtoleta/react-binary-clock/stargazers
 [coverage-badge]: https://img.shields.io/codecov/c/github/PeshoVurtoleta/react-binary-clock.svg?style=flat-square
 [coverage]: https://codecov.io/github/PeshoVurtoleta/react-binary-clock
+[deploy-status]: https://api.netlify.com/api/v1/badges/89ba913c-e72a-4693-a329-7dc7d63b7717/deploy-status
+[deploys]: https://app.netlify.com/sites/react-grid-binary-clock/deploys

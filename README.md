@@ -74,6 +74,10 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+## Demo:
+
+[react-grid-binary-clock](https://react-grid-binary-clock.netlify.com/)
+
 [npm]: https://www.npmjs.com/
 [node]: https://nodejs.org
 [git]: https://git-scm.com/

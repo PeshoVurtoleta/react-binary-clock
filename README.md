@@ -3,9 +3,20 @@
 👋 Hi there! My name is Zakk Shinikchiev! This is a repo show you my implementation of binary clock with react and css
 grid.
 
-[![Code Coverage][coverage-badge]][coverage]
-[![Watch on GitHub][github-watch-badge]][github-watch]
-[![Star on GitHub][github-star-badge]][github-star]
+## System Requirements
+
+* [git][git] v2.14.1 or greater
+* [NodeJS][node] v8.9.4 or greater
+* [npm][npm] v5.6.0 or greater
+
+All of these must be available in your `PATH`. To verify things are set up
+properly, you can run this:
+
+```
+git --version
+node --version
+npm --version
+```
 
 ## Available Scripts
 

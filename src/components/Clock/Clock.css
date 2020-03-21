@@ -1,7 +1,6 @@
 .Clock {
     width: 340px;
     height: 266px;
-    margin-top: 4px;
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     grid-template-rows: repeat(5, 1fr);

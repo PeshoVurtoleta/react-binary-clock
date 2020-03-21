@@ -3,6 +3,10 @@
 👋 Hi there! My name is Zakk Shinikchiev! This is a repo show you my implementation of binary clock with react and css
 grid.
 
+[![Watch on GitHub][github-watch-badge]][github-watch]
+[![Star on GitHub][github-star-badge]][github-star]
+[![Code Coverage][coverage-badge]][coverage]
+
 ## System Requirements
 
 * [git][git] v2.14.1 or greater
@@ -73,3 +77,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 [npm]: https://www.npmjs.com/
 [node]: https://nodejs.org
 [git]: https://git-scm.com/
+[github-watch]: https://github.com/PeshoVurtoleta/react-binary-clock/watchers
+[github-watch-badge]: https://img.shields.io/github/watchers/PeshoVurtoleta/react-binary-clock?style=social
+[github-star-badge]: https://img.shields.io/github/stars/PeshoVurtoleta/react-binary-clock?style=social
+[github-star]: https://github.com/PeshoVurtoleta/react-binary-clock/stargazers
+[coverage-badge]: https://img.shields.io/codecov/c/github/PeshoVurtoleta/react-binary-clock.svg?style=flat-square
+[coverage]: https://codecov.io/github/PeshoVurtoleta/react-binary-clock

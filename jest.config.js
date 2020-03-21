@@ -2,6 +2,7 @@ module.exports = {
     verbose: true,
     "clearMocks": true,
     "snapshotSerializers": ["enzyme-to-json/serializer"],
+    "coverageDirectory": "./coverage/",
     // "collectCoverage": true,
     "setupFilesAfterEnv": [
         "<rootDir>/setupTest.js"

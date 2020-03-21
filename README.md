@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React binary clock with css grid
+
+👋 Hi there! My name is Zakk Shinikchiev! This is a repo show you my implementation of binary clock with react and css
+grid.
+
+[![Code Coverage][coverage-badge]][coverage]
+[![Watch on GitHub][github-watch-badge]][github-watch]
+[![Star on GitHub][github-star-badge]][github-star]
 
 ## Available Scripts
 

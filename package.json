@@ -42,8 +42,8 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "name": "react-binary",
-  "private": true,
+  "name": "react-binary-clock",
+  "private": false,
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
@@ -52,5 +52,5 @@
     "test:coverage": "jest --coverage",
     "eject": "react-scripts eject"
   },
-  "version": "0.1.0"
+  "version": "1.0.0"
 }

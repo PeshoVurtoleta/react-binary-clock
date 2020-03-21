@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render correctly: Should render correctly with all modifiers: 1`] = `
+<span
+  className="Clock__Square grid__column-2 grid__row-3 Clock__Square--lit"
+>
+  4
+</span>
+`;
+
+exports[`Should render correctly: Should render correctly with no row: 1`] = `
+<span
+  className="Clock__Square grid__column-2 Clock__Square--lit"
+>
+  4
+</span>
+`;
+
+exports[`Should render correctly: Should render correctly: 1`] = `
+<span
+  className="Clock__Square grid__column-undefined"
+/>
+`;

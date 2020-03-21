@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render correctly: Should render correctly: 1`] = `
+<Clock>
+  <div
+    className="Clock"
+  >
+    <Time>
+      <span
+        className="Time"
+      />
+    </Time>
+  </div>
+</Clock>
+`;

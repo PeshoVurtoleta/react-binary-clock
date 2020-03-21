@@ -1,0 +1,12 @@
+.Clock__Square {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #FF1C43;
+    border-radius: 50%;
+}
+
+.Clock__Square--lit {
+    background-color: #fbebaf;
+    color: #FF1C43;
+}

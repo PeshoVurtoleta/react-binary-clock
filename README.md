@@ -6,6 +6,7 @@
 [![Star on GitHub][github-star-badge]][github-star]
 [![Code Coverage][coverage-badge]][coverage]
 [![Netlify Status][deploy-status]][deploys]
+[![MIT license][license-badge]][license]
 
 ## System Requirements
 
@@ -89,3 +90,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 [coverage]: https://codecov.io/github/PeshoVurtoleta/react-binary-clock
 [deploy-status]: https://api.netlify.com/api/v1/badges/89ba913c-e72a-4693-a329-7dc7d63b7717/deploy-status
 [deploys]: https://app.netlify.com/sites/react-grid-binary-clock/deploys
+[license]: https://github.com/PeshoVurtoleta/react-binary-clock/blob/master/LICENSE.txt
+[license-badge]: https://img.shields.io/badge/license-MIT-brightgreen

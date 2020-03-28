@@ -8,6 +8,7 @@ import Time from "../Time/Time";
 import squares from "../../mocks/squares";
 
 import {getTime, addZeroPrefix, timeToBinary} from "../../helpers/timeHelper";
+import {setTimeAndBinary} from "../../helpers/clockStateHelper";
 
 export default class Clock extends React.Component {
     delay = 1000;
@@ -21,11 +22,8 @@ export default class Clock extends React.Component {
 
     tick = () => {
         return setTimeout(() => {
-            const [hours, minutes, seconds] = getTime(addZeroPrefix);
-
             this.setState(() => ({
-                time: `${hours}:${minutes}:${seconds}`,
-                binary: timeToBinary(hours + minutes + seconds, this.digitPerRows)
+                ...setTimeAndBinary(getTime(addZeroPrefix), this.digitPerRows)(timeToBinary)
             }));
         }, this.delay);
     };
@@ -43,7 +41,7 @@ export default class Clock extends React.Component {
     }
 
     render() {
-        const{binary, time} = this.state;
+        const {binary, time} = this.state;
 
         return (
             <div className="Clock">

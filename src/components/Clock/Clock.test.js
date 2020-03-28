@@ -2,9 +2,7 @@ import React from 'react';
 
 import Clock from './Clock';
 
-import {getTime} from "../../helpers/timeHelper";
-
-import {shallow, render, mount} from 'enzyme';
+import {shallow, mount} from 'enzyme';
 
 jest.useFakeTimers();
 
@@ -15,10 +13,16 @@ describe(('Should render correctly:'), () => {
         expect(component.exists()).toBe(true);
         expect(component).toMatchSnapshot();
     });
+});
 
-    test('test', () => {
-        const component = shallow(<Clock/>);
+describe(('Should work properly:'), () => {
+    let component;
 
+    beforeEach(() => {
+        component = shallow(<Clock/>);
+    });
+
+    test('state should be set after a second:', () => {
         expect(component.state()).toEqual({
             time: null,
             binary: []
@@ -31,8 +35,6 @@ describe(('Should render correctly:'), () => {
     });
 
     it('invokes clears timeout on componentDidMount', () => {
-        const component = shallow(<Clock/>);
-
         component.unmount();
 
         expect(clearTimeout).toHaveBeenCalledTimes(1);

@@ -1,4 +1,4 @@
-import React, {useEffect, useState} from "react";
+import React, {useEffect, useState, useCallback} from "react";
 import {addZeroPrefix, getTime, timeToBinary} from "../../helpers/timeHelper";
 import Square from "../Square/Square";
 import squares from "../../mocks/squares";

@@ -77,7 +77,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ## Demo:
 
-[react-grid-binary-clock](https://react-grid-binary-clock.netlify.com/)
+[react-grid-binary-clock](https://react-grid-binary-clock.netlify.app)
 
 [npm]: https://www.npmjs.com/
 [node]: https://nodejs.org
